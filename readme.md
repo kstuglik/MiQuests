@@ -1,5 +1,8 @@
-![img1]("img/img1.png")
-![img1]("img/img2.png")
-![img1]("img/img3.png")
-![img1]("img/img4.png")
-![img1]("img/img5.png")
+<div>
+    <img align="center" src="./img/img1.png"/>
+    <img align="center" src="./img/img2.png"/>
+    <img align="center" src="./img/img3.png"/>
+    <img align="center" src="./img/img4.png"/>
+    <img align="center" src="./img/img5.png"/>
+    <img align="center" src="./img/img6.png"/>
+<div>
